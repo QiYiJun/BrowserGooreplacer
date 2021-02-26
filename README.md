@@ -2,15 +2,15 @@
 
 请选择对应您目前所用的浏览器的链接(排名不分先后,以A-Z排序)
 
-1.Chrome
+Chrome
 
 https://chrome.google.com/webstore/detail/gooreplacer/jnlkjeecojckkigmchmfoigphmgkgbip
 
-2.Edge
+Edge
 
 https://microsoftedge.microsoft.com/addons/detail/gooreplacer/cidbonnpjopamnhfjdgfcmjmlmehjnej
 
-3.Firefox
+Firefox
 
 https://addons.mozilla.org/zh-CN/firefox/addon/gooreplacer/
 
